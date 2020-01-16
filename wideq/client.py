@@ -11,8 +11,8 @@ from typing import Any, Dict, Generator, List, Optional
 
 from . import core
 
-DEFAULT_COUNTRY = 'US'
-DEFAULT_LANGUAGE = 'en-US'
+DEFAULT_COUNTRY = 'ZA'
+DEFAULT_LANGUAGE = 'en-ZA'
 #: Represents an unknown enum value.
 _UNKNOWN = 'Unknown'
 
